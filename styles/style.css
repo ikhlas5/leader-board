@@ -134,6 +134,7 @@ hr{
     }
      .player, .blog{
         flex-direction: column;
+         align-item:centre;
     }
     
 }
